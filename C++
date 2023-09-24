@@ -1,0 +1,8 @@
+#include<iostream.h>
+clrscr();
+void main()
+{
+cout<<"Gouri's 1st file";
+}
+getch();
+}
