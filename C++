@@ -2,7 +2,7 @@
 clrscr();
 void main()
 {
-cout<<"Gouri's 1st file";
+cout<<"Gouri's 1st file";<<endl;
 }
 getch();
 }
